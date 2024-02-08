@@ -112,6 +112,10 @@ vision\_pose\_estimate
 
 Send vision pose estimate to FCU.
 
+vision\_pose\_delta
+----------------------
+
+Send vision pose delta to FCU.
 
 vision\_speed\_estimate
 -----------------------

@@ -95,6 +95,7 @@ add_library(mavros_extras
   src/plugins/tunnel.cpp
   src/plugins/vibration.cpp
   src/plugins/vision_pose_estimate.cpp
+  src/plugins/vision_position_delta.cpp
   src/plugins/vision_speed_estimate.cpp
   src/plugins/wheel_odometry.cpp
   src/plugins/guided_target.cpp
